@@ -18,17 +18,17 @@ Gestion financière : Gérez vos revenus et vos dépenses pour assurer la prosp�
 L'objectif du jeu est de maintenir un haut niveau de satisfaction parmi vos visiteurs tout en assurant une rentabilité constante. Si le taux de satisfaction chute trop bas, vous perdrez la partie. À l'inverse, un parc bien géré avec des clients heureux vous permettra d'accroître votre richesse et de débloquer de nouvelles possibilités pour développer davantage votre parc.
 
 ### Caractéristiques
-Simulation réaliste de gestion de parc
-Ajout et amélioration d'attractions pour augmenter la satisfaction des clients
-Gestion des employés pour maintenir un service de qualité
-Système financier complet pour suivre les revenus et les dépenses
-Défis croissants à mesure que le parc se développe
+- Simulation réaliste de gestion de parc
+- Ajout et amélioration d'attractions pour augmenter la satisfaction des clients
+- Gestion des employés pour maintenir un service de qualité
+- Système financier complet pour suivre les revenus et les dépenses
+- Défis croissants à mesure que le parc se développe
 
 ### Technologies Utilisées
-Langage : Java
-IDE : Eclipse
+- Langage : Java
+- IDE : Eclipse
 
 ### Auteurs
-Boucceredj Sami
-Dekany Thomas
-Fernandez Thomas
+- Boucceredj Sami
+- Dekany Thomas
+- Fernandez Thomas
